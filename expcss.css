@@ -1,0 +1,154 @@
+
+body { font-family: 'Lato', sans-serif;
+    
+overflow-x: hidden;
+    margin: 0;
+    background: #1a2221;
+     color: white
+
+;
+    
+    
+}
+
+
+h1 { text-align: center; color: white; font-size: 3em; text-shadow: 2px 2px 100px #000000; line-height: 1.2em; font-family: 'Playfair Display', serif; }
+
+h3 {text-align: center; color: white; font-size: 1.5em; text-shadow: 2px 2px 75px #000000 ;
+margin-left: 16em; margin-right: 16em; margin-top;5em;line-height: 1.2em}
+
+h4 {font-family: 'Playfair Display', serif; font-size: 2em; padding-top: 1em; color: #fecb2f}
+
+h5 {text-align: center; color: #fecb2f; font-size: 1em; text-shadow: 2px 2px 75px #000000; font-family: 'Playfair Display', serif;}
+
+
+quote { text-align: center; color: white; font-size: 1em;  line-height: 1.2em; font-family: 'Playfair Display', serif; }
+
+cite {text-align: center; color: white; font-size: .5em;  line-height: 1.2em; font-family: 'Lato', sans-serif;;}
+
+
+    
+.main { 
+    text-align: left;
+    line-height: 150%;
+    letter-spacing: 1.2px;}
+ 
+.mainbody {margin-left: 12em;
+margin-right: 12em;
+    margin-top: 2em;
+font-size: 1.2em}
+  
+    
+    
+
+
+div.cover{
+    width: 100vw;
+    position: relative;
+    display: inline-block;
+    padding-bottom: 42%;
+}
+
+.main div.cover {
+    background: url(./images/taksplash1.jpg) top center/100% repeat space;
+    background-attachment: fixed;
+}
+
+.titleblock {width: 35em; display: flex;
+    display: block; margin-left: auto; margin-right: auto; margin-top: 12em;}
+
+    
+.quoteblock {margin-top: 2em; margin-bottom: 2em;
+}
+
+
+
+.arrow-container {
+    display: flex;
+    justify-content: center;
+    padding-top: 2em;
+}
+
+.arrow-container img {
+    max-width: 3em;
+}
+
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.container1 {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+
+.centered1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+}
+
+
+
+
+.takahe1 {float:left; width:40%; padding-right: 2.5em; padding-bottom: 2.3em; padding-top: .2em}
+
+.moa {float:right; width:40%; padding-left: 2.5em; padding-bottom: 2.3em; padding-top: .2em}
+
+
+
+
+
+caption {/*float: left;*/ 
+    padding-bottom: 1em; 
+    padding-top: 1em; 
+    font-family: 'Playfair Display', serif; 
+    font-size: 1.247em;
+    text-align: left;
+}
+
+.carrying-capacity {
+    width: 100%;
+    display: flex;
+    
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto;
+    border-collapse: collapse;
+}
+
+.carrying-capacity td, .carrying-capacity th {
+    border: 1px solid ;
+    padding: 8px;
+}
+
+
+.carrying-capacity tr:hover {background-color: #fecb2f;}
+
+.carrying-capacity th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #1c2423;
+    color: #fecb2f;
+}
+
+
+.footer {color:grey; margin-left: 5em; margin-right: 5em; margin-top: 5em;}
+
+
