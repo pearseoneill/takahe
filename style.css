@@ -11,6 +11,7 @@ overflow-x: hidden;
     
 }
 
+section {margin-bottom: 10em;}
 
 h1 { text-align: center; color: white; font-size: 3em; text-shadow: 2px 2px 100px #000000; line-height: 1.2em; font-family: 'Playfair Display', serif; }
 
