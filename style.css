@@ -39,7 +39,9 @@ margin-right: 12em;
 font-size: 1.2em}
   
     
-    
+    .line {width: 70%; color:7cad91; margin-bottom: 5em; border: none;
+    height: 8px;
+background-color: #fecb2f}
 
 
 div.cover{
